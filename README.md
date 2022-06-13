@@ -1,2 +1,2 @@
 # IEEEEXTREME-SOLUTIONS
-Here are the solutions to some ieee problems
+This project contains python and c# solutions to ieee problems.
